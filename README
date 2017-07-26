@@ -1,0 +1,7 @@
+Unfinished 7days to die bot.
+
+It has some features like stack checking, geolookup, rankings etc..
+
+Its open to anyone who want to continue working on it.
+
+Requeriments: PHP5+, SQLite3, json parser (php modules)
